@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Categoria</name>
+   <tag></tag>
+   <elementGuidId>a5dceb3d-9309-4697-8176-686f84b5ace7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-menu']/nav/ul/li[5]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title='${GlobalVariable.CATEGORIA}']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
